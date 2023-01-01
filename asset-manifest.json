@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sandro-machado/static/css/main.f3beb914.chunk.css",
-    "main.js": "/sandro-machado/static/js/main.9b7d4f23.chunk.js",
-    "main.js.map": "/sandro-machado/static/js/main.9b7d4f23.chunk.js.map",
+    "main.js": "/sandro-machado/static/js/main.71c369a6.chunk.js",
+    "main.js.map": "/sandro-machado/static/js/main.71c369a6.chunk.js.map",
     "runtime-main.js": "/sandro-machado/static/js/runtime-main.2d70d720.js",
     "runtime-main.js.map": "/sandro-machado/static/js/runtime-main.2d70d720.js.map",
     "static/js/2.977cd6b4.chunk.js": "/sandro-machado/static/js/2.977cd6b4.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2d70d720.js",
     "static/js/2.977cd6b4.chunk.js",
     "static/css/main.f3beb914.chunk.css",
-    "static/js/main.9b7d4f23.chunk.js"
+    "static/js/main.71c369a6.chunk.js"
   ]
 }
