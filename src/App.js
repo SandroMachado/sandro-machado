@@ -1,0 +1,33 @@
+import { useContext } from 'react'
+import './App.css'
+import About from './components/About/About'
+import Avatar from './components/Avatar/Avatar'
+import Contact from './components/Contact/Contact'
+import Footer from './components/Footer/Footer'
+import Header from './components/Header/Header'
+import Projects from './components/Projects/Projects'
+import ScrollToTop from './components/ScrollToTop/ScrollToTop'
+import Skills from './components/Skills/Skills'
+import { ThemeContext } from './contexts/theme'
+
+const App = () => {
+  const [{ themeName }] = useContext(ThemeContext)
+
+  return (
+    <div id='top' className={`${themeName} app`}>
+      <Header />
+      <main>
+        <Avatar />
+        <About />
+        <Projects />
+        <Skills />
+        <Contact />
+      </main>
+
+      <ScrollToTop />
+      <Footer />
+    </div>
+  )
+}
+
+export default App
