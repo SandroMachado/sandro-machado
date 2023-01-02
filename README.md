@@ -2,4 +2,4 @@
 
 Personal website hosted on github.
 
-https://sandromachado.github.io/
+https://sandro.contact
